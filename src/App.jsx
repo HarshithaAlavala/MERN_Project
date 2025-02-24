@@ -1,10 +1,11 @@
 import './App.css'
 import Header from './components/Header'
+import finance from './components/finance '
 function App() {
   return (
     <>
-      <h1>Welcome to Internship</h1>
-      <Header/>
+      <finance/> 
+      
     </>
   )
 }
